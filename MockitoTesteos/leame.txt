@@ -1,0 +1,1 @@
+- Stubbing values is as simple as calling a method on the mock and declaring what should be returned or thrown
